@@ -1,4 +1,4 @@
-# ESTEC-BEST-AUTOSERVICE
+# EESTEC-Olympics-BEST-AutoService
 Project developed at a 12 hours hackaton at UIPath
 
 Description
